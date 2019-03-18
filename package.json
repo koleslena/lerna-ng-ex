@@ -1,6 +1,9 @@
 {
-  "name": "root",
-  "private": true,
+  "name": "mytest-koleslena",
+  "version":"0.0.5",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "lerna": "^3.13.1"
   }
